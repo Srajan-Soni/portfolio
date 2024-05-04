@@ -4,8 +4,6 @@ import pcep from '../src/imgs/certificates/python_PCAP.jpg'
 import reactjs from '../src/imgs/certificates/reactjs.jpg'
 import java from '../src/imgs/certificates/oracle_java.png'
 
-
-
 const Certificates = () => {
 
     const [showAllCerts,setCertificates]  = useState(false);
